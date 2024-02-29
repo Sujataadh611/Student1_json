@@ -1,0 +1,14 @@
+{
+"students":[
+{
+"id":1,
+"name":"Sujata",
+"location":"Nepal"
+},
+{
+"id":2,
+"name":"Adhikari",
+"location":"Lamjung"
+}
+]
+}
